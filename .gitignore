@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 # Папка для данных (чтобы не заливать тяжелые CSV на гитхаб)
 data/
+catboost_info/
